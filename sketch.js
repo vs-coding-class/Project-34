@@ -3,8 +3,8 @@ var dog,dogSprite,dogHappy,dogRegular;
 var foodS,foodStock;
 
 function preload(){
-  dogRegular = loadImage("images/dogImg.png");
-  dogHappy = loadImage("images/dogImg1.png");
+  dogRegular = loadImage("dogImg.png");
+  dogHappy = loadImage("dogImg1.png");
 }
 
 function setup() {
